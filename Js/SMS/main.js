@@ -52,7 +52,7 @@ const SITE = {
   logo:
     "https://images.seeklogo.com/logo-png/61/1/school-logo-png_seeklogo-616539.png",
 
-  mobile: "19807711987",
+  mobile: "9807711987",
   whatsapp: "919807711987",
   email: "admission@yourschool.com",
   facebook: "https://www.facebook.com/",
@@ -85,7 +85,10 @@ Object.keys(SITE).forEach(key => {
         key === "whatsapp" ? "https://wa.me/" + value :
         key === "email"   ? "mailto:" + value :
         value;
-
+// अगर A tag खाली है तो SITE का content दिखाएं
+  if (!el.textContent.trim()) {
+    el.innerHTML = value;
+  }
     }
 
     // IMAGE
