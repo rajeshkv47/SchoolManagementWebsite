@@ -1,6 +1,18 @@
-const SITE = {
-  name: "College Name",
-  address: "Lucknow, Uttar Pradesh",
+ const SITE = {
+ //homepage
+ //slider
+ slider1heading1: "Welcome to RITI College", 
+ slider1heading1description: "Building knowledge, skills and a brighter future.",
+ 
+ slider2heading1: "Learn Grow Successed", 
+ slider2heading1description: "Quality Education",
+ 
+ slider3heading1: "Learn Grow Successed", 
+ slider3heading1description: "Quality Education", 
+ 
+ name: "College Name", 
+  name: "College Name",  
+  address: "Lucknow Uttar Pradesh",
   logo: "https://images.seeklogo.com/logo-png/61/1/school-logo-png_seeklogo-616539.png",
   mobile: "19807711987",
   mobileview: "9807711987",
