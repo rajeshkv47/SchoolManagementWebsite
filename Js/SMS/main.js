@@ -21,7 +21,7 @@ const SITE = {
   // HOME PAGE - ABOUT
   // =========================
 
-  AboutImageovertext1: "15+",
+  AboutImageovertext1: "18+",
   AboutImageovertext2: "Years Of Excellence",
   AboutImageovertext3: "Our Education System",
   AboutImageovertext4: "Inspires You More.",
