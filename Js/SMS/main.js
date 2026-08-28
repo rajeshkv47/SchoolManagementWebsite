@@ -1,6 +1,6 @@
 const SITE = {
-  name: "College<b> Name</b>2",
-  address: "Gonda, <b> Uttar</b> Pradesh",
+  name: "College Name",
+  address: "Lucknow, Uttar Pradesh",
   logo: "https://images.seeklogo.com/logo-png/61/1/school-logo-png_seeklogo-616539.png",
   mobile: "19807711987",
   mobileview: "9807711987",
