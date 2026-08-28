@@ -1,72 +1,107 @@
- const SITE = {
- //homepage
- //slider
- slider1heading1: "Welcome to RITI College", 
- slider1heading1description: "Building knowledge, skills and a brighter future.",
- 
- slider2heading1: "Learn Grow Successed", 
- slider2heading1description: "Quality Education",
- 
- slider3heading1: "Learn Grow Successed", 
- slider3heading1description: "Quality Education", 
- 
- name: "College Name", 
-  name: "College Name",  
-  address: "Lucknow Uttar Pradesh",
-  logo: "https://images.seeklogo.com/logo-png/61/1/school-logo-png_seeklogo-616539.png",
+const SITE = {
+
+  // =========================
+  // HOMEPAGE - SLIDER
+  // =========================
+
+  slider1heading1: "Welcome to <span style='font-size:50px'>RITI College</span>",
+  slider1heading1description:
+    "Building knowledge, skills and a brighter future.",
+
+  slider2heading1: "Learn. Grow. Succeed.",
+  slider2heading1description:
+    "Quality education with modern learning facilities.",
+
+  slider3heading1: "Your Future Starts Here",
+  slider3heading1description:
+    "Discover opportunities and achieve your goals.",
+
+
+  // =========================
+  // HOME PAGE - ABOUT
+  // =========================
+
+  AboutImageovertext1: "15+",
+  AboutImageovertext2: "Years Of Excellence",
+  AboutImageovertext3: "Our Education System",
+  AboutImageovertext4: "Inspires You More.",
+
+  AboutImageovertext5:
+    "We believe that quality education is the foundation of a successful future. Our learning environment encourages students to discover their potential, develop confidence and achieve their goals.",
+
+  AboutImageovertext6: "Quality Education",
+  AboutImageovertext7: "Modern and effective learning methods.",
+
+  AboutImageovertext8: "Experienced Teachers",
+  AboutImageovertext9: "Dedicated teachers supporting every student.",
+
+  AboutImageovertext10: "Smart Learning",
+  AboutImageovertext11: "Student Development.",
+  AboutImageovertext12: "Focus on academic and personal growth.",
+
+  AboutImageovertext13: "Professional Faculty",
+  AboutImageovertext14: "Dedicated for your success",
+
+
+  // =========================
+  // SCHOOL / COLLEGE DETAILS
+  // =========================
+
+  name: "College Name",
+  address: "Lucknow <i>Uttar Pradesh</i>",
+  logo:
+    "https://images.seeklogo.com/logo-png/61/1/school-logo-png_seeklogo-616539.png",
+
   mobile: "19807711987",
-  mobileview: "9807711987",
   whatsapp: "919807711987",
-  whatsappview: "919807711987",
   email: "admission@yourschool.com",
-  emailview: "admission@yourschool.com",
   facebook: "https://www.facebook.com/",
   instagram: "https://www.instagram.com/",
   youtube: "https://www.youtube.com/",
   twitter: "https://www.twitter.com/",
   website: "https://ritiwebsolution.blogspot.com/",
-  notice: "Admission Open from 1 Apr 2026 | 28 Aug Raksha Bandha Holiday",
+  notice:
+    "Admission Open from 1 Apr 2026 | 28 Aug Raksha Bandhan Holiday",
   fee: "#"
 };
 
-const LINKS = {
-  "site-call": () => "tel:" + SITE.mobile,
-  "site-whatsapp": () => "https://wa.me/" + SITE.whatsapp,
-  "site-email": () => "mailto:" + SITE.email,
-  "site-facebook": () => SITE.facebook,
-  "site-instagram": () => SITE.instagram,
-  "site-youtube": () => SITE.youtube,
-  "site-twitter": () => SITE.twitter,
-  "site-admission": () => SITE.admission,
-  "site-form": () => SITE.form,
-  "site-fee": () => SITE.fee
-};
 
-Object.entries(LINKS).forEach(([cls, url]) => {
-  document.querySelectorAll("." + cls)
-    .forEach(el => el.href = url());
+// ======================================
+// AUTOMATIC CONTENT + LINKS UPDATE
+// ======================================
+
+Object.keys(SITE).forEach(key => {
+
+  document.querySelectorAll(".site-" + key).forEach(el => {
+
+    let value = SITE[key];
+
+    // A TAG
+    if (el.tagName === "A") {
+
+      // Automatic href
+      el.href =
+        key === "mobile"   ? "tel:" + value :
+        key === "whatsapp" ? "https://wa.me/" + value :
+        key === "email"   ? "mailto:" + value :
+        value;
+
+    }
+
+    // IMAGE
+    if (el.tagName === "IMG") {
+
+      el.src = value;
+
+    }
+
+    // CONTENT
+    else {
+
+      el.innerHTML = value;
+
+    }
+
+  });
+
 });
-
-document.querySelectorAll(".site-mobileview")
-  .forEach(el => el.textContent = SITE.mobileview);
-
-document.querySelectorAll(".site-whatsappview")
-  .forEach(el => el.textContent = SITE.whatsappview);
-
-document.querySelectorAll(".site-emailview")
-  .forEach(el => el.textContent = SITE.emailview);
-
-document.querySelectorAll(".site-name")
-  .forEach(el => el.textContent = SITE.name);
-
-document.querySelectorAll(".site-website")
-  .forEach(el => el.textContent = SITE.website);
-
-document.querySelectorAll(".site-address")
-  .forEach(el => el.textContent = SITE.address);
-
-document.querySelectorAll(".site-notice")
-  .forEach(el => el.textContent = SITE.notice);
-
-document.querySelectorAll(".site-logo")
-  .forEach(el => el.src = SITE.logo);
