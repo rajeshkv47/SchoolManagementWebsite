@@ -85,10 +85,10 @@ Object.keys(SITE).forEach(key => {
         key === "whatsapp" ? "https://wa.me/" + value :
         key === "email"   ? "mailto:" + value :
         value;
-// अगर A tag खाली है तो SITE का content दिखाएं
-  if (!el.textContent.trim()) {
-    el.innerHTML = value;
-  }
+ 
+  // केवल Mobile का text खाली होने पर update होगा
+  if (key === "mobile" && !el.textContent.trim()) {
+    el.textContent = value;
     }
 
     // IMAGE
