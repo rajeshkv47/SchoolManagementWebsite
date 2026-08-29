@@ -76,33 +76,48 @@ Object.keys(SITE).forEach(key => {
 
     let value = SITE[key];
 
+    // =========================
     // A TAG
+    // =========================
     if (el.tagName === "A") {
 
       // Automatic href
       el.href =
         key === "mobile"   ? "tel:" + value :
         key === "whatsapp" ? "https://wa.me/" + value :
-        key === "email"   ? "mailto:" + value :
+        key === "email"    ? "mailto:" + value :
         value;
- 
-  // केवल Mobile का text खाली होने पर update होगा
-  if (key === "mobile" && !el.textContent.trim()) {
-    el.textContent = value;
+
+      // केवल Mobile का text खाली होने पर update होगा
+      if (key === "mobile" && !el.textContent.trim()) {
+        el.textContent = value;
+      }
+
+      // बाकी A TAG का content
+      else if (key !== "mobile") {
+        el.innerHTML = value;
+      }
+
     }
 
+    // =========================
     // IMAGE
-    if (el.tagName === "IMG") {
+    // =========================
+    else if (el.tagName === "IMG") {
 
       el.src = value;
 
     }
 
-    // CONTENT
+    // =========================
+    // NORMAL CONTENT
+    // =========================
     else {
 
       el.innerHTML = value;
 
-    } 
+    }
+
+  });
 
 });
