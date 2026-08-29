@@ -49,19 +49,24 @@ const SITE = {
 
   name: "College Name",
   address: "Lucknow <i>Uttar Pradesh</i>",
+
   logo:
     "https://images.seeklogo.com/logo-png/61/1/school-logo-png_seeklogo-616539.png",
 
   mobile: "9807711987",
   whatsapp: "919807711987",
   email: "admission@yourschool.com",
+
   facebook: "https://www.facebook.com/",
   instagram: "https://www.instagram.com/",
   youtube: "https://www.youtube.com/",
   twitter: "https://www.twitter.com/",
+
   website: "https://ritiwebsolution.blogspot.com/",
+
   notice:
     "Admission Open from 1 Apr 2026 | 28 Aug Raksha Bandhan Holiday",
+
   fee: "#"
 };
 
@@ -74,11 +79,13 @@ Object.keys(SITE).forEach(key => {
 
   document.querySelectorAll(".site-" + key).forEach(el => {
 
-    let value = SITE[key];
+    const value = SITE[key];
 
-    // =========================
+
+    // ==================================
     // A TAG
-    // =========================
+    // ==================================
+
     if (el.tagName === "A") {
 
       // --------------------------------
@@ -95,24 +102,34 @@ Object.keys(SITE).forEach(key => {
           : value;
 
 
-      // --------------------------------
+      // ==================================
       // MOBILE
-      // Only update text if empty
-      // --------------------------------
+      // ==================================
 
       if (key === "mobile") {
 
-        if (!el.textContent.trim()) {
+        /*
+         * Agar A tag completely empty hai
+         * tab mobile number show hoga.
+         *
+         * Agar icon hai:
+         * <a class="site-mobile">
+         *    <span class="fa fa-mobile"></span>
+         * </a>
+         *
+         * to existing icon preserve rahega.
+         */
+
+        if (el.innerHTML.trim() === "") {
           el.textContent = value;
         }
 
       }
 
 
-      // --------------------------------
+      // ==================================
       // SOCIAL LINKS
-      // DO NOT CHANGE ICON / CONTENT
-      // --------------------------------
+      // ==================================
 
       else if (
         key === "facebook" ||
@@ -121,15 +138,17 @@ Object.keys(SITE).forEach(key => {
         key === "twitter"
       ) {
 
-        // Only href will be updated.
-        // Existing icon/content will remain unchanged.
+        /*
+         * Sirf href update hoga.
+         * Existing icon/content same rahega.
+         */
 
       }
 
 
-      // --------------------------------
+      // ==================================
       // OTHER A TAGS
-      // --------------------------------
+      // ==================================
 
       else {
 
@@ -139,18 +158,22 @@ Object.keys(SITE).forEach(key => {
 
     }
 
-    // =========================
+
+    // ==================================
     // IMAGE
-    // =========================
+    // ==================================
+
     else if (el.tagName === "IMG") {
 
       el.src = value;
 
     }
 
-    // =========================
+
+    // ==================================
     // NORMAL CONTENT
-    // =========================
+    // ==================================
+
     else {
 
       el.innerHTML = value;
