@@ -47,7 +47,7 @@ const SITE = {
   // SCHOOL / COLLEGE DETAILS
   // =========================
 
-  name: "College Name",
+  name: "College <span class='text-[#ffa51c]'>Name</span>",
   address: "Lucknow <i>Uttar Pradesh</i>",
 
   logo:
