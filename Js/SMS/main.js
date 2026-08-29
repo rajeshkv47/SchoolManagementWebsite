@@ -81,21 +81,60 @@ Object.keys(SITE).forEach(key => {
     // =========================
     if (el.tagName === "A") {
 
-      // Automatic href
-      el.href =
-        key === "mobile"   ? "tel:" + value :
-        key === "whatsapp" ? "https://wa.me/" + value :
-        key === "email"    ? "mailto:" + value :
-        value;
+      // --------------------------------
+      // AUTOMATIC HREF
+      // --------------------------------
 
-      // केवल Mobile का text खाली होने पर update होगा
-      if (key === "mobile" && !el.textContent.trim()) {
-        el.textContent = value;
+      el.href =
+        key === "mobile"
+          ? "tel:" + value
+          : key === "whatsapp"
+          ? "https://wa.me/" + value
+          : key === "email"
+          ? "mailto:" + value
+          : value;
+
+
+      // --------------------------------
+      // MOBILE
+      // Only update text if empty
+      // --------------------------------
+
+      if (key === "mobile") {
+
+        if (!el.textContent.trim()) {
+          el.textContent = value;
+        }
+
       }
 
-      // बाकी A TAG का content
-      else if (key !== "mobile") {
+
+      // --------------------------------
+      // SOCIAL LINKS
+      // DO NOT CHANGE ICON / CONTENT
+      // --------------------------------
+
+      else if (
+        key === "facebook" ||
+        key === "instagram" ||
+        key === "youtube" ||
+        key === "twitter"
+      ) {
+
+        // Only href will be updated.
+        // Existing icon/content will remain unchanged.
+
+      }
+
+
+      // --------------------------------
+      // OTHER A TAGS
+      // --------------------------------
+
+      else {
+
         el.innerHTML = value;
+
       }
 
     }
