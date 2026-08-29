@@ -88,9 +88,9 @@ Object.keys(SITE).forEach(key => {
 
     if (el.tagName === "A") {
 
-      // --------------------------------
+      // ==================================
       // AUTOMATIC HREF
-      // --------------------------------
+      // ==================================
 
       el.href =
         key === "mobile"
@@ -103,35 +103,12 @@ Object.keys(SITE).forEach(key => {
 
 
       // ==================================
-      // MOBILE
+      // LINKS WITH ICON / EXISTING CONTENT
       // ==================================
 
-      if (key === "mobile") {
-
-        /*
-         * Agar A tag completely empty hai
-         * tab mobile number show hoga.
-         *
-         * Agar icon hai:
-         * <a class="site-mobile">
-         *    <span class="fa fa-mobile"></span>
-         * </a>
-         *
-         * to existing icon preserve rahega.
-         */
-
-        if (el.innerHTML.trim() === "") {
-          el.textContent = value;
-        }
-
-      }
-
-
-      // ==================================
-      // SOCIAL LINKS
-      // ==================================
-
-      else if (
+      if (
+        key === "mobile" ||
+        key === "whatsapp" ||
         key === "facebook" ||
         key === "instagram" ||
         key === "youtube" ||
@@ -139,9 +116,13 @@ Object.keys(SITE).forEach(key => {
       ) {
 
         /*
-         * Sirf href update hoga.
-         * Existing icon/content same rahega.
+         * Agar already icon ya content hai
+         * to kuch bhi replace nahi hoga.
          */
+
+        if (el.innerHTML.trim() === "") {
+          el.textContent = value;
+        }
 
       }
 
