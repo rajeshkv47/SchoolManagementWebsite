@@ -103,8 +103,6 @@ Object.keys(SITE).forEach(key => {
 
       el.innerHTML = value;
 
-    }
-
-  });
+    } 
 
 });
