@@ -4,7 +4,7 @@ const SITE = {
   // HOMEPAGE - SLIDER
   // =========================
 
-  slider1heading1: "Welcome to <span style='font-size:50px'>RITI College/School</span>",
+  slider1heading1: "Welcome to <span style='font-size:50px'>RITI College/School-</span>",
   slider1heading1description:
     "Building knowledge, skills and a brighter future.",
 
