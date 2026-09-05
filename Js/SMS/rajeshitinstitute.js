@@ -42,7 +42,22 @@ const SITE = {
   AboutImageovertext13: "Professional Faculty",
   AboutImageovertext14: "Dedicated for your success",
 
+// =========================
+  // HOME PAGE - Principal Section
+  // =========================
 
+  principalmessagetitle: "Principal&#39;s Message",
+  principalmessagetitle2: "A Message From Our<span class='text-[#08766e]'>Principal </span>",
+  principalphoto1: "https://i.pinimg.com/736x/e4/5a/c7/e45ac728a5f336ea9be15d687a95f749.jpg",
+  principalname: "Dr. Rajesh Kumar",
+  principalText2: "Principal", 
+  principalText2: "&#8220;Education is not only about acquiring knowledge;            it is about developing character, confidence,            creativity and the ability to make a positive            difference in the world.&#8221",
+  principalText3: "At our institution, we believe that every student          has unique potential and deserves the right            environment to discover and develop it. Our            commitment is to provide an education that combines            academic excellence with strong values and            practical learning.",
+  
+  principalText4:"Our dedicated teachers work closely with students            to encourage curiosity, creativity and confidence.             We continuously embrace innovative teaching            practices and technology to make learning more            meaningful and  ngaging.",
+  
+  principalText5:"Together with our parents and the entire academic            community, we are committed to nurturing responsible,            compassionate and capable individuals who are            prepared to meet the challenges of tomorrow.",
+  
   // =========================
   // SCHOOL / COLLEGE DETAILS
   // =========================
@@ -80,7 +95,6 @@ Object.keys(SITE).forEach(key => {
   document.querySelectorAll(".site-" + key).forEach(el => {
 
     const value = SITE[key];
-
 
     // ==================================
     // A TAG
