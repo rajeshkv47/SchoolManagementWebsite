@@ -112,7 +112,8 @@ Object.keys(SITE).forEach(key => {
         key === "facebook" ||
         key === "instagram" ||
         key === "youtube" ||
-        key === "twitter"
+        key === "twitter" || 
+        key === "email"
       ) {
 
         /*
