@@ -46,11 +46,11 @@ const SITE = {
   // HOME PAGE - Principal Section
   // =========================
 
-  principalmessagetitle: "Principal&#39;s Message",
-  principalmessagetitle2: "A Message From Our<span class='text-[#08766e]'>Principal </span>",
+  principalmessagetitle: "Principal/Director&#39;s Message",
+  principalmessagetitle2: "A Message From Our<span class='text-[#08766e]'>Principal/Director </span>",
   principalphoto1: "https://i.pinimg.com/736x/e4/5a/c7/e45ac728a5f336ea9be15d687a95f749.jpg",
-  principalname: "Dr. Rajesh Kumar",
-  principalText2: "Principal", 
+  principalname: "Er. Rajesh Kumar Verma",
+  principalText2: "Principal/Director", 
   principalText2: "&#8220;Education is not only about acquiring knowledge;            it is about developing character, confidence,            creativity and the ability to make a positive            difference in the world.&#8221",
   principalText3: "At our institution, we believe that every student          has unique potential and deserves the right            environment to discover and develop it. Our            commitment is to provide an education that combines            academic excellence with strong values and            practical learning.",
   
