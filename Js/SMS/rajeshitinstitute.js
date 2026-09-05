@@ -46,8 +46,8 @@ const SITE = {
   // HOME PAGE - Principal Section
   // =========================
 
-  principalmessagetitle: "Principal/Director&#39;s Message",
-  principalmessagetitle2: "A Message From Our<span class='text-[#08766e]'>Principal/Director </span>",
+  principalmessagetitle: "Principal Message",
+  principalmessagetitle2: "A Message From Our Principal/Director",
   principalphoto1: "https://i.pinimg.com/736x/e4/5a/c7/e45ac728a5f336ea9be15d687a95f749.jpg",
   principalname: "Er. Rajesh Kumar Verma",
   principalText2: "Principal/Director", 
