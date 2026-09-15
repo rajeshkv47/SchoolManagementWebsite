@@ -4,30 +4,29 @@ const SITE = {
   // HOMEPAGE - SLIDER
   // =========================
 
-  slider1heading1: "Welcome to <span style='font-size:50px'>Rajesh It Institue</span>",
-  slider1heading1description:
-    "Building knowledge, skills and a brighter future.",
+  slider1heading1: "",
+  slider1heading1description:"",
 
-  slider2heading1: "Learn. Grow. Succeed.",
+  slider2heading1: "",
   slider2heading1description:
-    "Quality education with modern learning facilities.",
+    "",
 
-  slider3heading1: "Your Future Starts Here",
+  slider3heading1: "",
   slider3heading1description:
-    "Discover opportunities and achieve your goals.",
+    "",
 
 
   // =========================
   // HOME PAGE - ABOUT
   // =========================
 
-  AboutImageovertext1: "18+",
-  AboutImageovertext2: "Years Of Excellence",
+  AboutImageovertext1: "14+",
+  AboutImageovertext2: "Years Of Experience",
   AboutImageovertext3: "Our Education System",
   AboutImageovertext4: "Inspires You More.",
 
   AboutImageovertext5:
-    "We believe that quality education is the foundation of a successful future. Our learning environment encourages students to discover their potential, develop confidence and achieve their goals.",
+    "We believe that quality education is the foundation of a successful future. Our platform provides online classes, online practical sessions, and theory examinations to make learning accessible anytime and anywhere. Students attending offline classes can also benefit from both online and offline examination options, empowering them to learn, practice, and achieve their goals with confidence.",
 
   AboutImageovertext6: "Quality Education",
   AboutImageovertext7: "Modern and effective learning methods.",
@@ -35,7 +34,7 @@ const SITE = {
   AboutImageovertext8: "Experienced Teachers",
   AboutImageovertext9: "Dedicated teachers supporting every student.",
 
-  AboutImageovertext10: "Smart Learning",
+  AboutImageovertext10: "Smart and AI Base Learning",
   AboutImageovertext11: "Student Development.",
   AboutImageovertext12: "Focus on academic and personal growth.",
 
