@@ -1,0 +1,78 @@
+{
+  "generator": "Built-in ImageGen",
+  "timezone": "Asia/Kolkata",
+  "assets": {
+    "hero": [
+      {
+        "path": "images/mobile-repair-learning-20261017-220342-864284-ist-69f0b5e0-1200w.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 93944
+      },
+      {
+        "path": "images/mobile-repair-learning-20261017-220344-502292-ist-008bcc38-720w.webp",
+        "width": 720,
+        "height": 480,
+        "bytes": 47678
+      },
+      {
+        "path": "images/mobile-repair-learning-20261017-220345-023435-ist-2b47f718-480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 26782
+      },
+      {
+        "path": "images/mobile-repair-learning-20261017-220345-320484-ist-7e291a04-192w.webp",
+        "width": 192,
+        "height": 128,
+        "bytes": 6740
+      },
+      {
+        "path": "images/mobile-repair-learning-20261017-220345-398203-ist-45e1c31c-96w.webp",
+        "width": 96,
+        "height": 64,
+        "bytes": 2264
+      }
+    ],
+    "components": [
+      {
+        "path": "images/basic-electronic-components-20261017-220345-572977-ist-8146048d-720w.webp",
+        "width": 720,
+        "height": 480,
+        "bytes": 33500
+      },
+      {
+        "path": "images/basic-electronic-components-20261017-220345-954910-ist-db5911b1-480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 18920
+      },
+      {
+        "path": "images/basic-electronic-components-20261017-220346-196367-ist-dcc44358-240w.webp",
+        "width": 240,
+        "height": 160,
+        "bytes": 6382
+      }
+    ],
+    "advanced": [
+      {
+        "path": "images/advanced-board-inspection-20261017-220346-463792-ist-7bc56f8f-720w.webp",
+        "width": 720,
+        "height": 480,
+        "bytes": 36174
+      },
+      {
+        "path": "images/advanced-board-inspection-20261017-220346-835601-ist-eea14d63-480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 21424
+      },
+      {
+        "path": "images/advanced-board-inspection-20261017-220347-036163-ist-28edcd66-240w.webp",
+        "width": 240,
+        "height": 160,
+        "bytes": 7794
+      }
+    ]
+  }
+}

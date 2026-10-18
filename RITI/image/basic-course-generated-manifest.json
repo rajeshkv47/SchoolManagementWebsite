@@ -1,6 +1,6 @@
 {
   "resistor": {
-    "path": "images/course-labelled-resistor-20261018-114156-337113-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-01-resistor-types-20261018-114156-337113-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-7e32b357-4301-4301-b76c-fe95a9a10e09.png",
@@ -11,7 +11,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "capacitor": {
-    "path": "images/course-labelled-capacitor-20261018-114159-751366-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-02-capacitor-types-20261018-114159-751366-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-52d999f0-7a5a-445c-878a-118b6959f765.png",
@@ -22,7 +22,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "led": {
-    "path": "images/course-labelled-led-20261018-114203-575836-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-09-led-types-testing-20261018-114203-575836-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-5631e94b-b5a4-4da8-afe2-7ff8ebc2c812.png",
@@ -33,7 +33,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "coil": {
-    "path": "images/course-labelled-coil-20261018-114207-673491-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-03-inductor-coil-20261018-114207-673491-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-fc700795-9a4a-443b-9cb8-79a9b200b173.png",
@@ -44,7 +44,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "semiconductor": {
-    "path": "images/course-labelled-semiconductor-20261018-114212-002264-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-05-diode-polarity-20261018-114212-002264-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-04699d98-1a17-4228-8643-22cda44749cf.png",
@@ -55,7 +55,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "board": {
-    "path": "images/course-labelled-board-20261018-114216-405519-ist.webp",
+    "path": "images/mobile-repairing-basic-course-mobile-pcb-component-identification-20261018-114216-405519-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-6f8b5b11-d7c8-401a-9b54-b36a7805bd01.png",
@@ -66,7 +66,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "tools": {
-    "path": "images/course-labelled-tools-20261018-114221-611706-ist.webp",
+    "path": "images/mobile-repairing-basic-course-multimeter-modes-testing-20261018-114221-611706-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-8d1c18aa-21b7-4c70-801b-2f51e56f17f3.png",
@@ -77,7 +77,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "cable": {
-    "path": "images/course-labelled-cable-20261018-114226-176851-ist.webp",
+    "path": "images/mobile-repairing-basic-course-live-neutral-earth-wires-20261018-114226-176851-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-25ac0732-a333-448d-9977-a4a78c717b68.png",
@@ -88,7 +88,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "regulator": {
-    "path": "images/course-labelled-regulator-20261018-114229-630803-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-15-voltage-regulator-20261018-114229-630803-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-2ca48e8e-de1a-4b94-8c68-d77ce8d5f797.png",
@@ -99,7 +99,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "thermistor": {
-    "path": "images/course-labelled-thermistor-20261018-114233-461464-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-21-ntc-ptc-thermistor-20261018-114233-461464-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-9d6b91d0-593e-422b-8a76-18afa019cada.png",
@@ -110,7 +110,7 @@
     "revision": "labels-diagrams-examples-v2"
   },
   "ferrite": {
-    "path": "images/course-labelled-ferrite-20261018-121454-216389-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-04-ferrite-bead-20261018-121454-216389-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-e575853a-ef77-4014-b612-6375412a22cc.png",
@@ -121,7 +121,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "schottky": {
-    "path": "images/course-labelled-schottky-20261018-121455-863352-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-06-schottky-diode-20261018-121455-863352-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-62bfb0f1-844b-4068-a9ae-d829c7ce2f92.png",
@@ -132,7 +132,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "zener": {
-    "path": "images/course-labelled-zener-20261018-121457-546925-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-07-zener-diode-20261018-121457-546925-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-d04988c2-5f41-4e64-9b94-cc4e56df84f1.png",
@@ -143,7 +143,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "tvs": {
-    "path": "images/course-labelled-tvs-20261018-121459-360111-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-08-tvs-esd-protection-20261018-121459-360111-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-8b299e63-75b6-47fe-9989-83ac1ab74428.png",
@@ -154,7 +154,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "bjt": {
-    "path": "images/course-labelled-bjt-20261018-121501-741843-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-10-bjt-transistor-20261018-121501-741843-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-ee38e3cc-dbfd-46cd-904a-255a619b81b6.png",
@@ -165,7 +165,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "mosfet": {
-    "path": "images/course-labelled-mosfet-20261018-121504-144276-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-11-mosfet-pinout-20261018-121504-144276-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-f1f970c8-337b-4cb0-b558-a4f83bb761bf.png",
@@ -176,7 +176,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "ic": {
-    "path": "images/course-labelled-ic-20261018-121506-139541-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-12-ic-packages-20261018-121506-139541-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-fcf92b50-4b31-4dcf-9f75-c660b372ca25.png",
@@ -187,7 +187,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "pmic": {
-    "path": "images/course-labelled-pmic-20261018-121508-298844-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-13-pmic-power-management-20261018-121508-298844-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-edb73044-bfe5-4e4d-9208-fdb89148daca.png",
@@ -198,7 +198,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "charging": {
-    "path": "images/course-labelled-charging-20261018-121510-139096-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-14-charging-ic-20261018-121510-139096-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-25c7aaa8-adce-40cf-9680-c35c0929e647.png",
@@ -209,7 +209,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "clock": {
-    "path": "images/course-labelled-clock-20261018-121512-096986-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-16-crystal-oscillator-20261018-121512-096986-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-f44c1a9e-d43b-4859-89b3-d75b14f61229.png",
@@ -220,7 +220,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "processor": {
-    "path": "images/course-labelled-processor-20261018-121514-659982-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-17-cpu-soc-processor-20261018-121514-659982-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-494a9815-20bb-4693-9945-fd8e40dc8f58.png",
@@ -231,7 +231,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "memory": {
-    "path": "images/course-labelled-memory-20261018-121517-704602-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-18-ram-storage-20261018-121517-704602-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-e1391c43-c675-4220-99d9-9cffb7667977.png",
@@ -242,7 +242,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "rf": {
-    "path": "images/course-labelled-rf-20261018-121519-537513-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-19-rf-network-section-20261018-121519-537513-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-8cd6d5f8-95c9-4a4d-98a2-9574fa66575c.png",
@@ -253,7 +253,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "fuse": {
-    "path": "images/course-labelled-fuse-20261018-121522-089300-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-20-fuse-ptc-20261018-121522-089300-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-f18d2768-a5ce-4b49-aee2-af00b816a5d6.png",
@@ -264,7 +264,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "potentiometer": {
-    "path": "images/course-labelled-potentiometer-20261018-121525-017130-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-22-potentiometer-trimmer-20261018-121525-017130-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-219f6baa-4cde-494f-ac65-17951ea8ba58.png",
@@ -275,7 +275,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "switch": {
-    "path": "images/course-labelled-switch-20261018-121527-382241-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-23-switch-button-20261018-121527-382241-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-dace8e2c-0bce-410d-a46f-0380d293b3fd.png",
@@ -286,7 +286,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "connector": {
-    "path": "images/course-labelled-connector-20261018-121529-600937-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-24-connector-flex-pcb-track-20261018-121529-600937-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-10c6cae7-9e62-41ad-8a1d-e43d6a29f364.png",
@@ -297,7 +297,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "microphone": {
-    "path": "images/course-labelled-microphone-20261018-121532-174331-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-25-microphone-types-20261018-121532-174331-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-e6b7309e-1977-4508-ab94-bc0c361dabb1.png",
@@ -308,7 +308,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "speaker": {
-    "path": "images/course-labelled-speaker-20261018-121534-061459-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-26-speaker-earpiece-20261018-121534-061459-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-9b932881-fff7-4d6f-b9d4-15c789a8fa74.png",
@@ -319,7 +319,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "haptic": {
-    "path": "images/course-labelled-haptic-20261018-121536-265446-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-27-vibration-motor-20261018-121536-265446-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-dc633daf-5e3e-4cef-99fe-1492e1234c4a.png",
@@ -330,7 +330,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "display": {
-    "path": "images/course-labelled-display-20261018-121538-448439-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-28-camera-display-touch-20261018-121538-448439-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-871cd0ca-b0d1-4a8f-8e38-f317b43bfbef.png",
@@ -341,7 +341,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "battery": {
-    "path": "images/course-labelled-battery-20261018-121540-482486-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-29-battery-protection-20261018-121540-482486-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-150ba2cc-56f6-4c7d-aa8d-ac452c26d9cf.png",
@@ -352,7 +352,7 @@
     "revision": "remaining-components-labelled-v3"
   },
   "isolation": {
-    "path": "images/course-labelled-isolation-20261018-121543-273668-ist.webp",
+    "path": "images/mobile-repairing-basic-course-part-30-transformer-relay-optocoupler-20261018-121543-273668-ist.webp",
     "origin": "original generated educational infographic",
     "tool": "built-in image_gen",
     "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-4fe0f858-1d6e-43b1-abf7-e83e39e5034d.png",
@@ -361,5 +361,91 @@
     "height": 853,
     "prompt_file": "tools/basic-course-generation-prompts-v3.json",
     "revision": "remaining-components-labelled-v3"
+  },
+  "acdc": {
+    "path": "images/mobile-repairing-basic-course-electricity-ac-dc-polarity-ground-20261018-123150-926441-ist.webp",
+    "origin": "original generated educational infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-fb244ac0-c524-445f-bb16-51757c9c875f.png",
+    "bytes": 128870,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/basic-course-generation-prompts-v4.json",
+    "revision": "basic-concepts-labelled-v4"
+  },
+  "ohm": {
+    "path": "images/mobile-repairing-basic-course-ohms-law-examples-20261018-123153-530580-ist.webp",
+    "origin": "original generated educational infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-c3dafe33-d26f-4366-9dc8-af6eb781cde3.png",
+    "bytes": 104814,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/basic-course-generation-prompts-v4.json",
+    "revision": "basic-concepts-labelled-v4"
+  },
+  "paths": {
+    "path": "images/mobile-repairing-basic-course-series-parallel-circuits-20261018-123157-404367-ist.webp",
+    "origin": "original generated educational infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-93479961-1a77-4223-9eb1-8b68fcf7f847.png",
+    "bytes": 77498,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/basic-course-generation-prompts-v4.json",
+    "revision": "basic-concepts-labelled-v4"
+  },
+  "faults": {
+    "path": "images/mobile-repairing-basic-course-open-short-leakage-testing-20261018-123201-561060-ist.webp",
+    "origin": "original generated educational infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-1a7fdbf7-65d7-4943-9c18-6d7bdfe3e1ff.png",
+    "bytes": 176896,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/basic-course-generation-prompts-v4.json",
+    "revision": "basic-concepts-labelled-v4"
+  },
+  "voltage": {
+    "path": "images/mobile-repairing-basic-course-dc-voltage-measurement-20261018-123206-343814-ist.webp",
+    "origin": "original generated educational infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-0af2555d-159c-45bd-87eb-e38e26b924fd.png",
+    "bytes": 78536,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/basic-course-generation-prompts-v4.json",
+    "revision": "basic-concepts-labelled-v4"
+  },
+  "sensors": {
+    "path": "images/mobile-repairing-basic-course-mobile-sensor-types-20261018-123212-112949-ist.webp",
+    "origin": "original generated educational infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-05304a88-fea0-4446-b79d-05d4ec5be689.png",
+    "bytes": 159746,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/basic-course-generation-prompts-v4.json",
+    "revision": "basic-concepts-labelled-v4"
+  },
+  "syllabus-overview": {
+    "path": "images/mobile-repairing-basic-course-syllabus-details-20261018-151956-450670-ist.webp",
+    "origin": "original generated learning visual",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-67c2698d-57a7-447e-b45e-5b9fe088e914.png",
+    "width": 1280,
+    "height": 853,
+    "bytes": 159616,
+    "prompt_file": "tools/basic-readability-image-prompts.json"
+  },
+  "why-join": {
+    "path": "images/mobile-repairing-basic-course-benefits-20261018-151958-334817-ist.webp",
+    "origin": "original generated learning visual",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-6dac35b6-7f38-4a68-b706-11f3aadbd00b.png",
+    "width": 640,
+    "height": 640,
+    "bytes": 72904,
+    "prompt_file": "tools/basic-readability-image-prompts.json"
   }
 }

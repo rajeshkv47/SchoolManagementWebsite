@@ -1,0 +1,182 @@
+{
+  "led": {
+    "path": "images/led-20261018-102830-365513-ist.webp",
+    "title": "Light-emitting diode",
+    "file": "RBG-LED.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RBG-LED.jpg",
+    "artist": "PiccoloNamek",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "resistor": {
+    "path": "images/resistor-20261018-102830-365513-ist.webp",
+    "title": "Resistor",
+    "file": "Electronic-Axial-Lead-Resistors-Array.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.png",
+    "artist": "User:Evan-Amos",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "capacitor": {
+    "path": "images/capacitor-20261018-102830-365513-ist.webp",
+    "title": "Capacitor",
+    "file": "Capacitors_(7189597135).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg",
+    "artist": "Eric Schrader from San Francisco, CA, United States",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "transistor": {
+    "path": "images/transistor-20261018-102830-365513-ist.webp",
+    "title": "Transistor",
+    "file": "Transbauformen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Transbauformen.jpg",
+    "artist": "Ulfbastel",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "ic": {
+    "path": "images/ic-20261018-102830-365513-ist.webp",
+    "title": "Integrated circuit",
+    "file": "EPROM_Microchip_SuperMacro.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:EPROM_Microchip_SuperMacro.jpg",
+    "artist": "Zephyris",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "meter": {
+    "path": "images/meter-20261018-102830-365513-ist.webp",
+    "title": "Digital Multimeter Aka.jpg",
+    "file": "Digital Multimeter Aka.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Digital_Multimeter_Aka.jpg",
+    "artist": "André Karwath aka Aka",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "battery": {
+    "path": "images/battery-20261018-102830-365513-ist.webp",
+    "title": "Electric battery",
+    "file": "Batteries.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Batteries.jpg",
+    "artist": "en:User:Brianiac",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "smd": {
+    "path": "images/smd-20261018-102830-365513-ist.webp",
+    "title": "Surface-mount technology",
+    "file": "Smt_closeup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Smt_closeup.jpg",
+    "artist": "en:User:John Fader",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "cable": {
+    "path": "images/cable-20261018-102830-365513-ist.webp",
+    "title": "Electrical cable",
+    "file": "Leitungsende_Abisoliert_en.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Leitungsende_Abisoliert_en.svg",
+    "artist": "Marekich",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "ic-packages": {
+    "path": "images/ic-packages-20261018-102830-365513-ist.webp",
+    "title": "NE555 DIP & SOIC.jpg",
+    "file": "NE555 DIP & SOIC.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:NE555_DIP_%26_SOIC.jpg",
+    "artist": "Swift.Hg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "shunt": {
+    "path": "images/shunt-20261018-102830-365513-ist.webp",
+    "title": "SMD Shunt Resistors.jpg",
+    "file": "SMD Shunt Resistors.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SMD_Shunt_Resistors.jpg",
+    "artist": "wdwd",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "cable-real": {
+    "path": "images/cable-real-20261018-102830-365513-ist.webp",
+    "title": "3 Core Round Jainson Cable.jpg",
+    "file": "3 Core Round Jainson Cable.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:3_Core_Round_Jainson_Cable.jpg",
+    "artist": "Jainsoncables",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "diode-photo": {
+    "path": "images/diode-photo-20261018-104246-374950-ist.webp",
+    "title": "Diode",
+    "file": "Diode-closeup.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Diode-closeup.jpg",
+    "artist": "John Maushammer; The original uploader was Morcheeba at English Wikipedia.",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "coil-photo": {
+    "path": "images/coil-photo-20261018-104248-476305-ist.webp",
+    "title": "Inductor",
+    "file": "Electronic_component_inductors.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Electronic_component_inductors.jpg",
+    "artist": "Miguel",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "mlcc-photo": {
+    "path": "images/mlcc-photo-20261018-104250-393712-ist.webp",
+    "title": "Ceramic capacitor",
+    "file": "Electronic-Component-Ceramic-Capacitor.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Electronic-Component-Ceramic-Capacitor.jpg",
+    "artist": "Evan-Amos",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "mosfet-photo": {
+    "path": "images/mosfet-photo-20261018-104252-625489-ist.webp",
+    "title": "MOSFET",
+    "file": "D2PAK.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:D2PAK.JPG",
+    "artist": "No machine-readable author provided. CyrilB~commonswiki assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "crystal-photo": {
+    "path": "images/crystal-photo-20261018-104254-816369-ist.webp",
+    "title": "Crystal oscillator",
+    "file": "16MHZ_Crystal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:16MHZ_Crystal.jpg",
+    "artist": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "mlcc-smd-photo": {
+    "path": "images/mlcc-smd-photo-20261018-104409-882647-ist.webp",
+    "title": "1 μF SMD 0603 ceramic capacitor.jpg",
+    "file": "1 μF SMD 0603 ceramic capacitor.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1_%CE%BCF_SMD_0603_ceramic_capacitor.jpg",
+    "artist": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "smd-coil-photo": {
+    "path": "images/smd-coil-photo-20261018-104411-769279-ist.webp",
+    "title": "SMD inductors on match.jpg",
+    "file": "SMD inductors on match.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SMD_inductors_on_match.jpg",
+    "artist": "Filip Wahlberg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "micro-usb-photo": {
+    "path": "images/micro-usb-photo-20261018-104413-548618-ist.webp",
+    "title": "SMD Micro-USB Socket.jpg",
+    "file": "SMD Micro-USB Socket.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SMD_Micro-USB_Socket.jpg",
+    "artist": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  }
+}

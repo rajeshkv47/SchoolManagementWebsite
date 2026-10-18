@@ -1,0 +1,83 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompts": [
+    "Indian adult studying AI with laptop and notebook, teal/amber, no logos.",
+    "CCC revision desk, documents, spreadsheets, notebook and practice cards, no logos."
+  ],
+  "assets": {
+    "ai": [
+      {
+        "name": "ai-beginner-learning-20261017-223845-645384-ist-50196c83-960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 43696
+      },
+      {
+        "name": "ai-beginner-learning-20261017-223846-887806-ist-d20643ef-640w.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 26264
+      },
+      {
+        "name": "ai-beginner-learning-20261017-223847-360102-ist-d3b6c615-320w.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 10808
+      }
+    ],
+    "notes": [
+      {
+        "name": "ccc-notes-computer-practice-20261017-223848-058134-ist-381ee35a-960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 46774
+      },
+      {
+        "name": "ccc-notes-computer-practice-20261017-223849-491803-ist-7abb94cb-640w.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 27198
+      },
+      {
+        "name": "ccc-notes-computer-practice-20261017-223849-952193-ist-1559846d-320w.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 10454
+      }
+    ],
+    "mobile": [
+      {
+        "name": "mobile-repair-learning-20261017-220344-502292-ist-008bcc38-720w.webp",
+        "width": 720,
+        "height": 480,
+        "bytes": 47678
+      },
+      {
+        "name": "mobile-repair-learning-20261017-220345-023435-ist-2b47f718-480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 26782
+      }
+    ],
+    "components": [
+      {
+        "name": "basic-electronic-components-20261017-220345-572977-ist-8146048d-720w.webp",
+        "width": 720,
+        "height": 480,
+        "bytes": 33500
+      },
+      {
+        "name": "basic-electronic-components-20261017-220345-954910-ist-db5911b1-480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 18920
+      },
+      {
+        "name": "basic-electronic-components-20261017-220346-196367-ist-dcc44358-240w.webp",
+        "width": 240,
+        "height": 160,
+        "bytes": 6382
+      }
+    ]
+  }
+}
