@@ -1,0 +1,122 @@
+{
+  "ai-workflow": {
+    "path": "images/lesson-ai-workflow-20261018-135338-372902-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-681b97b0-d8b8-4c9c-88e5-753beadd8598.png",
+    "bytes": 171438,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "ai-prompt": {
+    "path": "images/lesson-ai-prompt-20261018-135340-345761-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-d932ec15-b137-43f3-b93b-42e4342b4dc2.png",
+    "bytes": 151436,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "ai-review": {
+    "path": "images/lesson-ai-review-20261018-135341-904515-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-8d1105a4-5596-4c97-a5a2-c960a1f234de.png",
+    "bytes": 155068,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "ccc-skills": {
+    "path": "images/lesson-ccc-skills-20261018-135343-873586-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-3ad6ff86-3275-4d7b-a36b-26eba7accce5.png",
+    "bytes": 165494,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "ccc-practice": {
+    "path": "images/lesson-ccc-practice-20261018-135345-836785-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-9aa01dea-0e8a-4fd9-ad7c-336c75a1d5df.png",
+    "bytes": 154204,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "computer-flow": {
+    "path": "images/lesson-computer-flow-20261018-135349-179254-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-68553c5b-5965-46e9-80e4-ca870b837c2a.png",
+    "bytes": 132558,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "computer-parts": {
+    "path": "images/lesson-computer-parts-20261018-135351-070811-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-b10bb497-193a-4b9b-8a35-aaf308401f69.png",
+    "bytes": 235906,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "computer-history": {
+    "path": "images/lesson-computer-history-20261018-135353-698223-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-c036923a-5ddc-410e-a72e-0f97330b28e0.png",
+    "bytes": 213712,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "computer-software": {
+    "path": "images/lesson-computer-software-20261018-135355-575270-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-b7065f91-13e6-4ee5-8b97-6b446d81cdb9.png",
+    "bytes": 156852,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "os-architecture": {
+    "path": "images/lesson-os-architecture-20261018-135357-643042-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-b3507631-e118-43dc-abd1-f73f2f965c11.png",
+    "bytes": 146782,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "os-desktop": {
+    "path": "images/lesson-os-desktop-20261018-135359-803419-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-a93ee612-890d-43f2-b75f-4e11326cde28.png",
+    "bytes": 104552,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  },
+  "os-files": {
+    "path": "images/lesson-os-files-20261018-135401-706564-ist.webp",
+    "origin": "original generated teaching infographic",
+    "tool": "built-in image_gen",
+    "source_generated_file": "C:\\Users\\rajes\\.codex\\generated_images\\01a14d41-58b7-7282-aeeb-f26fec3eab25\\exec-a31217e2-bac6-4756-86f3-c640217fb763.png",
+    "bytes": 102136,
+    "width": 1280,
+    "height": 853,
+    "prompt_file": "tools/all-pages-image-prompts-20261018.json"
+  }
+}
