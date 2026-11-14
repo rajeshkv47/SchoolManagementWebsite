@@ -3,11 +3,11 @@ const SITE = {
   // SCHOOL / COLLEGE DETAILS
   // =========================
 
-  name: "College <span class='text-[#ffa51c]'>Name</span>",
-  address: "Lucknow <i>Uttar Pradesh</i>", 
-  mobile: "9807711987",
-  whatsapp: "919807711987",
-  email: "admission@yourschool.com", 
+  name: "SRRTED <span class='text-[#ffa51c]'>College</span>",
+  address: "Laxmi Nagar <i>Bhaukahwa, Gonda, Uttar Pradesh</i>", 
+  mobile: "9882694369",
+  whatsapp: "919882694369",
+  email: "srirajaramtripathigonda@gmail.com", 
   facebook: "https://www.facebook.com/",
   instagram: "https://www.instagram.com/",
   youtube: "https://www.youtube.com/",
