@@ -3,7 +3,7 @@ const SITE = {
   // SCHOOL / COLLEGE DETAILS
   // =========================
 
-  name: "SRRTED <span class='text-[#ffa51c]'>College</span>",
+  name: "SRRTED <span class='text-[#ffa51c]'>COLLEGE</span>",
   address: "Laxmi Nagar <i>Bhaukahwa, Gonda, Uttar Pradesh</i>", 
   mobile: "9882694369",
   whatsapp: "919882694369",
